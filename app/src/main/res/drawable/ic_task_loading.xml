@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_task_loading_static">
+    <target
+        android:name="progressBar"
+        android:animation="@animator/loading_animation" />
+</animated-vector> 
